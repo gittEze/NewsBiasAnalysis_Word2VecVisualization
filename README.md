@@ -1,4 +1,4 @@
-# Análisis de Sesgos en Noticias en Inglés con Word2Vec  
+# Análisis de Sesgos en Noticias con Word2Vec  
 
 En este colab se realizó un **análisis de sesgos en el lenguaje** utilizando el modelo **Word2Vec**.  
 El objetivo fue explorar **cómo ciertas palabras relacionadas con género, edad, clase social, ocupación, etc.** Se agrupan en el espacio graficado, tomando como base un conjunto de noticias.  
